@@ -89,15 +89,19 @@ A basic Recurrent Neural Network is implemented for sentiment classification.
 
 Model Structure:
 Input Layer (Text Sequences)
+
         │
         ▼
 Embedding Layer
+
         │
         ▼
 RNN Layer
+
         │
         ▼
 Dense Layer
+
         │
         ▼
 Output Layer (Softmax / Sigmoid)
@@ -111,16 +115,21 @@ RNN processes text sequentially, capturing short-term dependencies.
 An advanced LSTM model is implemented to improve performance.
 
 Model Structure:
+
 Input Layer (Text Sequences)
+
         │
         ▼
 Embedding Layer
+
         │
         ▼
 LSTM Layer
+
         │
         ▼
 Dense Layer
+
         │
         ▼
 Output Layer (Softmax / Sigmoid)
@@ -222,4 +231,3 @@ https://github.com/vsbeginner
 
 LinkedIn: 
 https://www.linkedin.com/in/vinayak-sharma-24a8aa384/
----
